@@ -1,3 +1,6 @@
+## Installing Terraform
+Follow installation instructions [here](https://www.terraform.io/downloads.html).
+
 ## Initializing Terraform
 Run ```terraform init``` in this directory to initialize your terraform.
 
